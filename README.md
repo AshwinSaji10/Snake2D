@@ -1,2 +1,2 @@
 # Snake2D
-A Snake game created for a high school project
+A Snake game created as a high school project
