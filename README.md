@@ -1,2 +1,2 @@
 # Snake2D
-A Snake game created as a high school project
+A Different take on the classic snake game made using c++ and graphics.h
